@@ -1,0 +1,21 @@
+# Usage example for teacher.py in main.py
+
+from teacher import Teacher
+
+# Create a teacher for P2 Literacy
+teacher = Teacher(grade="P2", subject="literacy")
+
+if teacher.curriculum_exists():
+    print("Learning Outcomes:")
+    for outcome in teacher.get_learning_outcomes():
+        print("-", outcome)
+    print("Topics:")
+    for topic in teacher.get_topics():
+        print("-", topic)
+else:
+    print("No curriculum found for this grade and subject.")
+
+# Change grade or subject as needed
+teacher.set_grade("P3")
+teacher.set_subject("science")
+# ...

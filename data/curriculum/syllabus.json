@@ -1,0 +1,6 @@
+{
+  "title": "School Curriculum Syllabus",
+  "levels": ["P1", "P2", "P3"],
+  "version": "1.0",
+  "notes": "Generated structure for P1 to P3. Fill in learning outcomes and topics as needed."
+}
