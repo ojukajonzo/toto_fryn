@@ -1,0 +1,455 @@
+{
+  "level": "P1",
+  "subject": "english",
+  "note": "English (Non-Medium) - English is taught as a subject, not as the medium of instruction in P1",
+  "curriculum_source": "Uganda National Curriculum Development Centre (NCDC)",
+  "overview": "In P1, English is taught as a subject through themes. Children develop listening, speaking, pre-reading, and pre-writing competences. English skills acquired here will form the basis for using English as the medium of instruction from P5 onwards.",
+  "learning_outcomes": [
+    "Develop listening skills and comprehension of simple English speech",
+    "Speak English using simple structures and vocabulary from themes",
+    "Recognize and identify letters and basic sight words",
+    "Develop pre-writing skills and letter formation",
+    "Build vocabulary related to thematic contexts",
+    "Participate in simple English songs, rhymes, and role-plays",
+    "Develop confidence in using English in familiar contexts"
+  ],
+  "overall_competences": [
+    "Listening and understanding simple English instructions",
+    "Speaking in short phrases and sentences",
+    "Naming objects and activities in English",
+    "Describing using simple adjectives",
+    "Asking and answering basic questions",
+    "Using simple present tense structures",
+    "Matching pictures to words",
+    "Recognizing English letters",
+    "Copying and writing simple words",
+    "Participating in role-plays and dialogues",
+    "Singing English songs and reciting rhymes",
+    "Following simple storytelling in English"
+  ],
+  "themes": [
+    {
+      "theme_number": 1,
+      "name": "Our School",
+      "listening_speaking": [
+        "Naming school activities (sweep, garden, read, write, play, pray, clean, learn)",
+        "Understanding questions: 'What are you doing?'",
+        "Responding: 'I am...', 'We are...'",
+        "Asking and answering: 'What is she/he doing?'",
+        "Role-playing calls and commands (go, come, take, stop)",
+        "Saying tongue twisters related to school"
+      ],
+      "pre_reading": [
+        "Reciting rhymes about school activities",
+        "Comparing pictures of school activities",
+        "Matching picture to picture",
+        "Matching pictures to objects correctly"
+      ],
+      "pre_writing": [
+        "Tracing patterns and shapes",
+        "Making patterns",
+        "Drawing school objects",
+        "Tearing and pasting pictures",
+        "Colouring and shading"
+      ],
+      "structures": [
+        "'What are you doing?'",
+        "'I am...'",
+        "'We are...'",
+        "'What is she/he doing?'",
+        "'She/he is...'"
+      ],
+      "vocabulary": [
+        "School activities: sweep, garden, read, write, play, pray, clean, learn, teach",
+        "School objects: gate, flag, desk, chair, ball, book"
+      ]
+    },
+    {
+      "theme_number": 2,
+      "name": "Our Home",
+      "listening_speaking": [
+        "Naming family members (mother, father, sister, brother, baby)",
+        "Naming household items (bed, table, chair, door, window)",
+        "Responding to questions: 'What is your name?' 'How old are you?'",
+        "Describing family members using adjectives (big, small, tall, short)",
+        "Role-playing family activities",
+        "Singing family-related songs and lullabies"
+      ],
+      "pre_reading": [
+        "Matching family members' pictures",
+        "Matching household items to pictures",
+        "Reciting rhymes about the home",
+        "Recognizing sight words (mother, father, home)"
+      ],
+      "pre_writing": [
+        "Drawing family members",
+        "Scribbling and colouring pictures",
+        "Pasting picture sequences of daily routines",
+        "Tracing letter shapes"
+      ],
+      "structures": [
+        "'This is my...' (mother/father/sister)",
+        "'I have a...'",
+        "'My mother/father is...'",
+        "'We live in a...'"
+      ],
+      "vocabulary": [
+        "Family members: mother, father, sister, brother, baby, grandmother, grandfather",
+        "Home items: bed, table, chair, door, window, kitchen, room"
+      ]
+    },
+    {
+      "theme_number": 3,
+      "name": "Our Community",
+      "listening_speaking": [
+        "Identifying community helpers (teacher, doctor, nurse, policeman, shopkeeper)",
+        "Naming community places (school, clinic, shop, church, mosque)",
+        "Describing what community helpers do",
+        "Asking and answering: 'Who is...?', 'What does...do?'",
+        "Role-playing community helper jobs",
+        "Using positional language (near, far, beside, behind)"
+      ],
+      "pre_reading": [
+        "Matching helpers to their workplaces",
+        "Recognizing sight words for community helpers",
+        "Following simple picture stories about the community"
+      ],
+      "pre_writing": [
+        "Drawing community buildings",
+        "Drawing community helpers",
+        "Copying words related to community",
+        "Colouring community scenes"
+      ],
+      "structures": [
+        "'This is a... (teacher/doctor)'",
+        "'A... works at a...'",
+        "'The... is near/far from...'"
+      ],
+      "vocabulary": [
+        "Community helpers: teacher, doctor, nurse, policeman, shopkeeper, farmer",
+        "Community places: school, clinic, shop, church, mosque, market, post office"
+      ]
+    },
+    {
+      "theme_number": 4,
+      "name": "The Human Body and Health",
+      "listening_speaking": [
+        "Naming body parts (head, eyes, ears, nose, mouth, arms, legs, hands, feet)",
+        "Naming personal hygiene items (soap, water, toothbrush, towel)",
+        "Understanding health-related instructions",
+        "Describing actions (wash, brush, eat, drink, sleep, exercise)",
+        "Responding to health questions",
+        "Role-playing hygiene routines"
+      ],
+      "pre_reading": [
+        "Matching body part labels to diagrams",
+        "Recognizing sight words for body parts",
+        "Following sequenced hygiene instruction pictures"
+      ],
+      "pre_writing": [
+        "Drawing body parts and labeling",
+        "Drawing faces with features",
+        "Copying body part words",
+        "Tracing body outlines"
+      ],
+      "structures": [
+        "'I have a...' (head, eyes, etc.)",
+        "'This is my...'",
+        "'I... my... (wash my hands)'",
+        "'We should...'"
+      ],
+      "vocabulary": [
+        "Body parts: head, eyes, ears, nose, mouth, arms, legs, hands, feet, fingers, toes",
+        "Health actions: wash, brush, eat, drink, sleep, exercise, rest"
+      ]
+    },
+    {
+      "theme_number": 5,
+      "name": "Weather",
+      "listening_speaking": [
+        "Naming weather conditions (sunny, rainy, cloudy, windy, hot, cold)",
+        "Describing weather and effects",
+        "Naming weather-related clothing and items",
+        "Asking about weather: 'What is the weather like?'",
+        "Role-playing weather-related activities",
+        "Singing weather songs"
+      ],
+      "pre_reading": [
+        "Matching weather pictures to words",
+        "Recognizing weather-related sight words",
+        "Following weather instruction pictures"
+      ],
+      "pre_writing": [
+        "Drawing weather phenomena",
+        "Drawing weather-appropriate clothing",
+        "Copying weather words",
+        "Colouring weather scenes"
+      ],
+      "structures": [
+        "'It is... (sunny/rainy/cloudy)'",
+        "'The weather is...'",
+        "'When it rains, we...'"
+      ],
+      "vocabulary": [
+        "Weather: sunny, rainy, cloudy, windy, hot, cold, wet, dry",
+        "Clothing: coat, umbrella, sandals, raincoat, hat, shoes"
+      ]
+    },
+    {
+      "theme_number": 6,
+      "name": "Accidents and Safety",
+      "listening_speaking": [
+        "Naming dangers and hazards",
+        "Understanding safety rules and instructions",
+        "Responding to emergency language",
+        "Asking and answering safety questions",
+        "Describing safe and unsafe actions",
+        "Role-playing safety scenarios"
+      ],
+      "pre_reading": [
+        "Recognizing safety-related sight words",
+        "Matching hazards to safety rules",
+        "Following safety instruction sequences"
+      ],
+      "pre_writing": [
+        "Drawing safe and unsafe scenarios",
+        "Copying safety words",
+        "Drawing preventative measures",
+        "Creating safety posters"
+      ],
+      "structures": [
+        "'It is/not safe to...'",
+        "'Do not...'",
+        "'We should...'"
+      ],
+      "vocabulary": [
+        "Safety: safe, unsafe, danger, hazard, careful, help, fire, water, poison, sharp",
+        "Safety actions: wash hands, hold hands, look, listen, stop, go"
+      ]
+    },
+    {
+      "theme_number": 7,
+      "name": "Living Together",
+      "listening_speaking": [
+        "Expressing emotions and feelings (happy, sad, angry, afraid)",
+        "Responding to others' feelings",
+        "Using polite language (please, thank you, sorry)",
+        "Asking and answering questions about relationships",
+        "Role-playing social interactions",
+        "Singing songs about friendship and cooperation"
+      ],
+      "pre_reading": [
+        "Matching feelings to facial expressions",
+        "Recognizing sight words for emotions",
+        "Following social story sequences"
+      ],
+      "pre_writing": [
+        "Drawing feelings and emotions",
+        "Drawing family and friends",
+        "Copying kindness-related words",
+        "Illustrating cooperative scenes"
+      ],
+      "structures": [
+        "'I am... (happy/sad)'",
+        "'He/she is...'",
+        "'Please...', 'Thank you'",
+        "'I like... (my friend/my family)'"
+      ],
+      "vocabulary": [
+        "Emotions: happy, sad, angry, afraid, shy, excited, tired",
+        "Social words: friend, family, share, help, sorry, please, thank you, sorry, kind"
+      ]
+    },
+    {
+      "theme_number": 8,
+      "name": "Food And Nutrition",
+      "listening_speaking": [
+        "Naming food items and food groups",
+        "Describing tastes (sweet, salty, bitter, sour)",
+        "Asking and answering food-related questions",
+        "Naming eating utensils and items",
+        "Role-playing eating and sharing food",
+        "Singing food-related songs"
+      ],
+      "pre_reading": [
+        "Matching food pictures to words",
+        "Recognizing food-related sight words",
+        "Following food preparation sequences"
+      ],
+      "pre_writing": [
+        "Drawing favorite foods",
+        "Drawing food groups",
+        "Copying food words",
+        "Colouring food items"
+      ],
+      "structures": [
+        "'I like/do not like...'",
+        "'This is a... (mango/banana)'",
+        "'We eat... for breakfast/lunch/dinner'",
+        "'Food gives us...'"
+      ],
+      "vocabulary": [
+        "Foods: rice, beans, vegetables, fruits, mango, banana, orange, tomato, spinach, meat, fish",
+        "Food groups: grains, proteins, vegetables, fruits, milk",
+        "Eating items: plate, cup, spoon, fork, knife, glass"
+      ]
+    },
+    {
+      "theme_number": 9,
+      "name": "Our Transport",
+      "listening_speaking": [
+        "Naming types of transport (car, bus, bicycle, motorcycle, boat, plane)",
+        "Describing transport features",
+        "Understanding transport-related instructions",
+        "Asking and answering transport questions",
+        "Role-playing transport scenarios",
+        "Singing transport songs"
+      ],
+      "pre_reading": [
+        "Matching transport pictures to words",
+        "Recognizing transport-related sight words",
+        "Following movement instruction sequences"
+      ],
+      "pre_writing": [
+        "Drawing different vehicles",
+        "Copying transport words",
+        "Drawing road safety scenes",
+        "Illustrating transport journeys"
+      ],
+      "structures": [
+        "'This is a...' (car/bus/bicycle)",
+        "'We travel by...'",
+        "'The... has... wheels'"
+      ],
+      "vocabulary": [
+        "Transport: car, bus, bicycle, motorcycle, boat, plane, truck, train, taxi",
+        "Transport parts: wheel, door, window, seat, steering wheel, engine"
+      ]
+    },
+    {
+      "theme_number": 10,
+      "name": "Things We Make",
+      "listening_speaking": [
+        "Naming craft materials (paper, clay, beads, wood, leaves)",
+        "Describing creations and their uses",
+        "Understanding craft instructions",
+        "Asking about and discussing creations",
+        "Role-playing craft activities",
+        "Singing songs about making things"
+      ],
+      "pre_reading": [
+        "Matching materials to craft items",
+        "Recognizing craft-related sight words",
+        "Following craft instruction sequences"
+      ],
+      "pre_writing": [
+        "Drawing creations and designs",
+        "Copying craft-related words",
+        "Illustrating making processes",
+        "Creating patterns"
+      ],
+      "structures": [
+        "'I can make a...'",
+        "'This is made from...'",
+        "'We use... to make...'"
+      ],
+      "vocabulary": [
+        "Materials: paper, clay, wood, beads, leaves, stones, sticks, string, rope",
+        "Making verbs: make, build, create, paint, draw, paste, fold, cut, tear"
+      ]
+    },
+    {
+      "theme_number": 11,
+      "name": "Our Environment",
+      "listening_speaking": [
+        "Naming plants and animals",
+        "Describing nature and environment",
+        "Understanding environmental care instructions",
+        "Asking and answering nature questions",
+        "Role-playing environmental care",
+        "Singing environmental songs"
+      ],
+      "pre_reading": [
+        "Matching plants and animals to their names",
+        "Recognizing nature-related sight words",
+        "Following environmental care sequences"
+      ],
+      "pre_writing": [
+        "Drawing plants and animals",
+        "Drawing natural scenes",
+        "Copying nature words",
+        "Illustrating environmental care"
+      ],
+      "structures": [
+        "'This is a... (tree/flower/bird)'",
+        "'The... lives in a...'",
+        "'We must care for/protect...'"
+      ],
+      "vocabulary": [
+        "Plants: tree, flower, grass, leaf, root, stem, seed",
+        "Animals: bird, butterfly, insect, dog, cat, cow, goat, snake"
+      ]
+    },
+    {
+      "theme_number": 12,
+      "name": "Peace And Security",
+      "listening_speaking": [
+        "Expressing peaceful behavior",
+        "Understanding peaceful living concepts",
+        "Using conflict resolution language",
+        "Asking and answering peace-related questions",
+        "Role-playing peaceful scenarios",
+        "Singing peace and unity songs"
+      ],
+      "pre_reading": [
+        "Matching peaceful actions to descriptions",
+        "Recognizing peace-related sight words",
+        "Following conflict resolution sequences"
+      ],
+      "pre_writing": [
+        "Drawing peaceful scenes",
+        "Drawing cooperation activities",
+        "Copying peace-related words",
+        "Creating unity posters"
+      ],
+      "structures": [
+        "'We should... (share/help/cooperate)'",
+        "'It is not good to...'",
+        "'Let's... together'"
+      ],
+      "vocabulary": [
+        "Peace words: peace, kind, share, help, cooperate, respect, listen, calm",
+        "Security: safe, security, guard, protect, careful, warning"
+      ]
+    }
+  ],
+  "teaching_methodology": [
+    "Thematic integration: English taught through theme-related contexts",
+    "Listening to teacher models and recordings",
+    "Repetition and choral work (songs, rhymes, poems)",
+    "Role-play and dramatization for speaking practice",
+    "Picture-based and gesture-supported learning",
+    "Total Physical Response (TPR) activities",
+    "Pair and group work for speaking practice",
+    "Visual support (pictures, flashcards, wall charts)"
+  ],
+  "assessment_focus": [
+    "Listen for understanding of simple English instructions",
+    "Observe speaking: Can child use simple structures and vocabulary?",
+    "Check letter recognition and pre-writing skills through drawings",
+    "Record listening and speaking competences through observation",
+    "Use drawings and role-play as evidence of comprehension",
+    "Informal, continuous assessment in natural contexts"
+  ],
+  "note_on_english_medium": "In P1, English is NOT the medium of instruction. Children are taught IN their local/familiar language. English is taught as a subject to build skills for P4-P7 when English becomes the medium of instruction.",
+  "resources": [
+    "Picture cards and flashcards",
+    "English story books (with pictures and simple text)",
+    "Audio recordings of songs and stories",
+    "Manipulatives related to themes",
+    "Wall charts with thematic vocabulary and structures",
+    "Role-play props related to themes",
+    "Sentence cards with simple structures",
+    "Alphabet cards and letter formation guides"
+  ]
+}

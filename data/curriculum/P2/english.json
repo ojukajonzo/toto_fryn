@@ -1,0 +1,209 @@
+{
+  "level": "P2",
+  "subject": "english",
+  "source": "Uganda National Curriculum Development Centre (NCDC) - P2 Thematic Curriculum",
+  "themes": [
+    {
+      "theme_id": 1,
+      "name": "Our School and Neighbourhood",
+      "competences": [
+        "Read simple sentences with expression and understanding",
+        "Identify main ideas in short texts",
+        "Write simple sentences about school",
+        "Use capital letters and full stops correctly",
+        "Spell CVC and simple words correctly",
+        "Listen to and follow multi-step instructions",
+        "Speak about school experiences in simple sentences",
+        "Use basic sentence structure (subject, verb, object)",
+        "Recognize and use common nouns (school, teacher, friend)",
+        "Understand and use prepositions (in, on, under, near)"
+      ]
+    },
+    {
+      "theme_id": 2,
+      "name": "Our Home and Community",
+      "competences": [
+        "Read and understand family-related vocabulary",
+        "Write simple sentences about family members",
+        "Use possessive pronouns (my, your, his, her)",
+        "Describe family relationships using appropriate words",
+        "Listen to stories about families",
+        "Speak about family in complete sentences",
+        "Recognize and use verbs related to family activities",
+        "Form plurals correctly",
+        "Use adjectives to describe family members",
+        "Read and write community-related words"
+      ]
+    },
+    {
+      "theme_id": 3,
+      "name": "The Human Body and Health",
+      "competences": [
+        "Name body parts and spell them correctly",
+        "Read health-related vocabulary",
+        "Write sentences about health and hygiene",
+        "Use imperative verbs for health instructions (wash, eat, sleep)",
+        "Listen to health information attentively",
+        "Give simple health advice using appropriate language",
+        "Read and understand health instructions",
+        "Use 'must' and 'should' for health guidance",
+        "Describe health conditions using appropriate vocabulary",
+        "Create posters with health messages"
+      ]
+    },
+    {
+      "theme_id": 4,
+      "name": "Food and Nutrition",
+      "competences": [
+        "Read and spell food names",
+        "Write sentences about favorite foods",
+        "Use countable and uncountable nouns for food (apples/rice)",
+        "Read and understand nutrition vocabulary",
+        "Listen to recipes and food-related stories",
+        "Speak about food preferences and nutrition",
+        "Use adjectives to describe food (sweet, salty, healthy)",
+        "Write simple recipes with instructions",
+        "Understand and use 'some' and 'any' with food items",
+        "Read labels and understand food information"
+      ]
+    },
+    {
+      "theme_id": 5,
+      "name": "Transport in Our Community",
+      "competences": [
+        "Read and spell names of vehicles",
+        "Write sentences about different means of transport",
+        "Use 'can' and 'cannot' to describe vehicle capabilities",
+        "Listen to stories about journeys and travel",
+        "Speak about preferred modes of transport",
+        "Read safety instructions for different vehicles",
+        "Write simple directions using vocabulary (left, right, forward)",
+        "Use past tense to describe journey experiences",
+        "Understand traffic signs and their meanings",
+        "Create stories about travel adventures"
+      ]
+    },
+    {
+      "theme_id": 6,
+      "name": "Things We Make",
+      "competences": [
+        "Read and spell words related to crafts and making",
+        "Write instructions for making objects",
+        "Use sequential words (first, then, next, finally)",
+        "Listen to descriptions of objects",
+        "Describe things made using appropriate adjectives",
+        "Read and understand technical vocabulary for crafts",
+        "Write sentences about materials and processes",
+        "Use verbs related to making (cut, paste, draw, build)",
+        "Create simple diagrams with labels",
+        "Write stories about creative processes"
+      ]
+    },
+    {
+      "theme_id": 7,
+      "name": "Accidents and Safety",
+      "competences": [
+        "Read and understand safety vocabulary",
+        "Write safety rules and warnings",
+        "Use imperative forms for safety instructions (Stop, Look, Listen)",
+        "Listen to and remember safety messages",
+        "Speak about accident prevention",
+        "Read and understand warning signs",
+        "Write stories about staying safe",
+        "Use 'must', 'must not', 'should' for safety advice",
+        "Understand and follow emergency instructions",
+        "Create safety posters with clear messages"
+      ]
+    },
+    {
+      "theme_id": 8,
+      "name": "Work and Livelihoods",
+      "competences": [
+        "Read and spell occupational names",
+        "Write sentences about different jobs",
+        "Use 'does' and 'works' correctly",
+        "Listen to descriptions of different occupations",
+        "Speak about aspirations and future work",
+        "Read job advertisements and understand key information",
+        "Write about skills needed for different jobs",
+        "Use present continuous tense (is working)",
+        "Describe workplace environments using adjectives",
+        "Create profiles of different professionals"
+      ]
+    },
+    {
+      "theme_id": 9,
+      "name": "Child Protection",
+      "competences": [
+        "Read and understand rights-related vocabulary",
+        "Write about personal safety and boundaries",
+        "Use appropriate language to report concerns",
+        "Listen to protection messages attentively",
+        "Speak about personal safety in age-appropriate ways",
+        "Read and understand protection policies",
+        "Write about trusted adults and help sources",
+        "Use 'can', 'should', 'must' for safety guidance",
+        "Understand good and bad touch concepts",
+        "Create safety communication materials"
+      ]
+    },
+    {
+      "theme_id": 10,
+      "name": "Animals and Plants",
+      "competences": [
+        "Read and spell names of animals and plants",
+        "Write sentences about animal and plant characteristics",
+        "Use singular and plural forms correctly",
+        "Listen to nature stories and descriptions",
+        "Describe animals and plants using adjectives",
+        "Read and understand science-related vocabulary",
+        "Write about habitats and environments",
+        "Use simple present tense for animal behaviors",
+        "Create fact files about animals and plants",
+        "Write poetry about nature"
+      ]
+    },
+    {
+      "theme_id": 11,
+      "name": "Time and Seasons",
+      "competences": [
+        "Read and write months and days correctly",
+        "Write sentences about seasonal changes",
+        "Use time-related prepositions (in, on, at, during)",
+        "Listen to descriptions of seasonal activities",
+        "Speak about favorite seasons and activities",
+        "Read and understand weather vocabulary",
+        "Write about seasonal clothing and food",
+        "Use adverbial phrases for time (last week, next month)",
+        "Create seasonal calendars with descriptions",
+        "Write poetry about the seasons"
+      ]
+    },
+    {
+      "theme_id": 12,
+      "name": "Water and Cleanliness",
+      "competences": [
+        "Read and spell water-related vocabulary",
+        "Write sentences about water and hygiene",
+        "Use imperative verbs for cleanliness (wash, rinse, dry)",
+        "Listen to information about water conservation",
+        "Speak about importance of clean water",
+        "Read and understand health and safety instructions",
+        "Write about water sources and usage",
+        "Use 'should', 'must', 'can' for health advice",
+        "Create posters promoting cleanliness",
+        "Write stories about water and sanitation"
+      ]
+    }
+  ],
+  "learning_outcomes": [
+    "Develop fluency in reading and understanding English texts",
+    "Write coherent sentences and simple texts",
+    "Communicate effectively in English in various contexts",
+    "Expand vocabulary related to daily life and learning",
+    "Use correct grammar and punctuation conventions",
+    "Listen attentively and understand spoken English",
+    "Speak with clarity and confidence in English",
+    "Develop appreciation for English language and literature"
+  ]
+}

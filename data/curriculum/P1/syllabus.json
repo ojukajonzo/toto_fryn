@@ -1,0 +1,115 @@
+{
+  "level": "P1",
+  "title": "Primary 1 - Thematic Curriculum Syllabus (Uganda)",
+  "curriculum_source": "National Curriculum Development Centre (NCDC), Uganda",
+  "version": "2.0",
+  "academic_year": "Full Year",
+  "learning_cycle": "Cycle 1: Basic Skills (P1-P3)",
+  "currency": "Thematic Approach",
+  "delivery_medium": "Local Language / Familiar Language (with English as a subject)",
+  "overall_learning_outcomes": [
+    "Develop basic literacy, mathematics and life skills in a first language or familiar language",
+    "Build sufficient English language skills as a basis for P4-P7 English medium instruction",
+    "Appreciate culture and understand roles in society",
+    "Develop problem-solving abilities and critical thinking in everyday contexts"
+  ],
+  "themes": [
+    {
+      "number": 1,
+      "title": "Our School",
+      "description": "Exploring the school environment, roles, and activities",
+      "key_competences": ["Sorting and counting", "Describing school activities", "Understanding classroom rules"]
+    },
+    {
+      "number": 2,
+      "title": "Our Home",
+      "description": "Understanding family structures and home activities",
+      "key_competences": ["Identifying family members", "Counting household items", "Describing home routines"]
+    },
+    {
+      "number": 3,
+      "title": "Our Community",
+      "description": "Exploring community roles, helpers, and services",
+      "key_competences": ["Identifying community workers", "Understanding services", "Counting community resources"]
+    },
+    {
+      "number": 4,
+      "title": "The Human Body and Health",
+      "description": "Learning body parts, hygiene, and basic health concepts",
+      "key_competences": ["Naming body parts", "Hygiene practices", "Disease awareness"]
+    },
+    {
+      "number": 5,
+      "title": "Weather",
+      "description": "Understanding weather elements and their effects",
+      "key_competences": ["Weather observation", "Seasonal changes", "Weather safety"]
+    },
+    {
+      "number": 6,
+      "title": "Accidents and Safety",
+      "description": "Learning about hazards and safe practices",
+      "key_competences": ["Hazard identification", "Safety rules", "Emergency responses"]
+    },
+    {
+      "number": 7,
+      "title": "Living Together",
+      "description": "Building social skills and understanding relationships",
+      "key_competences": ["Respect and cooperation", "Conflict resolution", "Family roles"]
+    },
+    {
+      "number": 8,
+      "title": "Food And Nutrition",
+      "description": "Understanding food types, nutrition, and food safety",
+      "key_competences": ["Food identification", "Balanced diet", "Food storage and hygiene"]
+    },
+    {
+      "number": 9,
+      "title": "Our Transport",
+      "description": "Learning about different modes of transport",
+      "key_competences": ["Transport types", "Road safety", "Transport uses"]
+    },
+    {
+      "number": 10,
+      "title": "Things We Make",
+      "description": "Understanding crafts, creation, and production",
+      "key_competences": ["Creative making", "Material use", "Product identification"]
+    },
+    {
+      "number": 11,
+      "title": "Our Environment",
+      "description": "Caring for and understanding the natural environment",
+      "key_competences": ["Environmental awareness", "Conservation", "Resource use"]
+    },
+    {
+      "number": 12,
+      "title": "Peace And Security",
+      "description": "Building peaceful communities and understanding security",
+      "key_competences": ["Peaceful behavior", "Community safety", "Cooperation"]
+    }
+  ],
+  "subjects_integrated": ["Literacy", "Mathematics", "English (Non-Medium)", "Science", "Social Studies", "Creative Performing Arts", "Life Skills and Values"],
+  "teaching_approach": [
+    "Learner-centred methodology",
+    "Thematic organization of content",
+    "Activity-based learning with play",
+    "Use of local language as medium of instruction",
+    "Integration of practical skills with academic learning"
+  ],
+  "assessment_approach": [
+    "Competence-based (not objective-based)",
+    "Continuous informal assessment",
+    "Teacher observation and recording",
+    "Work samples and demonstrations",
+    "Formative assessment during activities"
+  ],
+  "key_resources": [
+    "Flash cards",
+    "Sentence cards",
+    "Wall charts",
+    "Work cards",
+    "Simple readers (story and factual)",
+    "Locally available materials",
+    "Visual aids and manipulatives"
+  ],
+  "notes": "This P1 curriculum follows Uganda's National Curriculum Development Centre (NCDC) thematic approach. Competences emphasize transfer of learning and understanding, not just memorization. All teaching and assessment (except English language assessment in non-English medium schools) should be in the child's local language or a familiar language."
+}

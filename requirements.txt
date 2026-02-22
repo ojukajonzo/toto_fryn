@@ -2,3 +2,6 @@ vosk
 sounddevice
 ollama
 streamlit
+sqlite3
+pyttsx3
+numpy

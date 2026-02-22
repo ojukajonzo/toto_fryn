@@ -1,0 +1,197 @@
+{
+  "level": "P3",
+  "subject": "mathematics",
+  "source": "Uganda National Curriculum Development Centre (NCDC) - P3 Thematic Curriculum",
+  "themes": [
+    {
+      "theme_id": 1,
+      "name": "Our Sub-county/Division",
+      "competences": [
+        "Count objects up to 100",
+        "Read and write numbers 0-100",
+        "Understand place value (tens and ones)",
+        "Compare and order numbers using symbols (>, <, =)",
+        "Add numbers within 50 using various strategies",
+        "Subtract numbers within 50 using various strategies",
+        "Recognize 2D and 3D shapes in the environment",
+        "Measure distances in the community using standard units",
+        "Collect and organize data about the community"
+      ]
+    },
+    {
+      "theme_id": 2,
+      "name": "Livelihood in Our Sub-county/Division",
+      "competences": [
+        "Count and group objects into tens",
+        "Use skip counting (5s, 10s, 25s)",
+        "Understand basic multiplication as repeated addition",
+        "Introduce division as sharing and grouping",
+        "Solve word problems involving money and business",
+        "Calculate profits and losses in simple terms",
+        "Measure weights and capacity of goods",
+        "Understand cost, price and income concepts",
+        "Create simple graphs showing business data"
+      ]
+    },
+    {
+      "theme_id": 3,
+      "name": "Our Environment in Our Sub-county/Division",
+      "competences": [
+        "Measure area and perimeter of land",
+        "Use standard units for length, mass and capacity",
+        "Estimate measurements before measuring",
+        "Collect environmental data and represent in graphs",
+        "Compare quantities of different resources",
+        "Add and subtract within 100 confidently",
+        "Understand simple fractions (1/2, 1/4, 1/3)",
+        "Solve problems involving environmental conservation",
+        "Create maps using scale"
+      ]
+    },
+    {
+      "theme_id": 4,
+      "name": "Environment and Weather",
+      "competences": [
+        "Record and interpret temperature data",
+        "Create and read weather graphs",
+        "Measure rainfall using standard units",
+        "Calculate average weather patterns",
+        "Use data to make predictions about weather",
+        "Understand time duration in weather observations",
+        "Compare weather across seasons",
+        "Calculate energy usage in relation to weather",
+        "Solve problems involving seasonal changes"
+      ]
+    },
+    {
+      "theme_id": 5,
+      "name": "Living Things: Animals",
+      "competences": [
+        "Count and classify animals by characteristics",
+        "Understand grouping and sets with animals",
+        "Create Venn diagrams showing animal classification",
+        "Measure animal sizes and compare",
+        "Record animal population data",
+        "Understand basic multiplication through animal groups",
+        "Calculate food requirements for animals",
+        "Use data to understand animal habitats",
+        "Solve problems involving animal conservation"
+      ]
+    },
+    {
+      "theme_id": 6,
+      "name": "Living Things: Plants",
+      "competences": [
+        "Measure plant growth over time",
+        "Create graphs showing plant growth data",
+        "Count and classify plants by characteristics",
+        "Understand basic division with plant seeds",
+        "Calculate spacing for planting crops",
+        "Measure area for gardens and farms",
+        "Use multiplication for large seed quantities",
+        "Solve problems involving crop production",
+        "Estimate harvest yields"
+      ]
+    },
+    {
+      "theme_id": 7,
+      "name": "Water and Natural Resources",
+      "competences": [
+        "Measure water volume using standard units",
+        "Calculate water usage and conservation",
+        "Create graphs showing water data",
+        "Understand fractions related to water sharing",
+        "Estimate water needs for different purposes",
+        "Calculate costs of water resources",
+        "Solve problems involving water management",
+        "Use ratios in water treatment",
+        "Measure water quality indicators"
+      ]
+    },
+    {
+      "theme_id": 8,
+      "name": "Cultural Heritage",
+      "competences": [
+        "Count and record cultural artifacts",
+        "Create timelines of cultural events",
+        "Understand counting systems in different cultures",
+        "Calculate costs of cultural festivals",
+        "Measure traditional clothing dimensions",
+        "Create graphs showing cultural participation",
+        "Solve problems involving cultural activities",
+        "Use multiplication for group performances",
+        "Estimate resource needs for cultural events"
+      ]
+    },
+    {
+      "theme_id": 9,
+      "name": "Peace, Rights and Responsibilities",
+      "competences": [
+        "Collect and interpret data on peace issues",
+        "Create graphs showing rights awareness",
+        "Count and classify responsibilities",
+        "Understand basic statistics on conflicts",
+        "Solve problems involving fair sharing (division)",
+        "Calculate resources for peaceful activities",
+        "Use data to understand community needs",
+        "Create pie charts showing community concerns",
+        "Measure attendance at peace-building activities"
+      ]
+    },
+    {
+      "theme_id": 10,
+      "name": "Energy and Movement",
+      "competences": [
+        "Measure distance and speed of movement",
+        "Calculate time for various movements",
+        "Understand forces through practical measurement",
+        "Create graphs showing energy usage",
+        "Solve problems involving movement and distance",
+        "Use multiplication for repetitive movements",
+        "Measure angles in movement patterns",
+        "Calculate energy expenditure in activities",
+        "Understand simple machines and mechanical advantage"
+      ]
+    },
+    {
+      "theme_id": 11,
+      "name": "Communication and Technology",
+      "competences": [
+        "Count and classify communication methods",
+        "Measure distances in communication networks",
+        "Calculate costs of communication tools",
+        "Create graphs showing technology usage",
+        "Understand digital number systems (introduction)",
+        "Solve problems involving communication technology",
+        "Use data to understand connectivity",
+        "Calculate time zones and time differences",
+        "Measure and estimate signal strengths"
+      ]
+    },
+    {
+      "theme_id": 12,
+      "name": "Trade and Commerce",
+      "competences": [
+        "Calculate profits, losses and percentages",
+        "Use multiplication and division in trading",
+        "Understand proportions in trading",
+        "Create graphs showing market data",
+        "Measure quantities of goods traded",
+        "Calculate exchange rates (basic)",
+        "Solve problems involving buying and selling",
+        "Use fractions in trade negotiations",
+        "Estimate demand and supply patterns"
+      ]
+    }
+  ],
+  "learning_outcomes": [
+    "Develop deeper understanding of numbers and place value",
+    "Perform multi-step arithmetic operations accurately",
+    "Understand basic multiplication and division concepts",
+    "Work with fractions in practical contexts",
+    "Measure and compare using standard units",
+    "Collect, organize, analyze and interpret data",
+    "Solve multi-step problems using mathematical reasoning",
+    "Apply mathematics to real-world situations in the community"
+  ]
+}

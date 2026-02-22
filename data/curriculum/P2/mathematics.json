@@ -1,0 +1,173 @@
+{
+  "level": "P2",
+  "subject": "mathematics",
+  "source": "Uganda National Curriculum Development Centre (NCDC) - P2 Thematic Curriculum",
+  "themes": [
+    {
+      "theme_id": 1,
+      "name": "Our School and Neighbourhood",
+      "competences": [
+        "Count objects up to 50",
+        "Read and write numbers 0-50",
+        "Compare numbers using greater than, less than, equal to",
+        "Add numbers within 20 using concrete materials",
+        "Subtract numbers within 20 using concrete materials",
+        "Recognize and name 2D shapes (circles, squares, rectangles, triangles)",
+        "Measure length using non-standard units",
+        "Tell time to the hour using analogue clock"
+      ]
+    },
+    {
+      "theme_id": 2,
+      "name": "Our Home and Community",
+      "competences": [
+        "Count money (coins and notes up to 10,000 shillings)",
+        "Perform simple transactions involving money",
+        "Skip count by 2s, 5s and 10s",
+        "Understand the concept of grouping objects",
+        "Solve simple word problems involving addition within 20",
+        "Classify objects by size, shape, colour",
+        "Order objects by length and height"
+      ]
+    },
+    {
+      "theme_id": 3,
+      "name": "The Human Body and Health",
+      "competences": [
+        "Count and identify body parts",
+        "Measure height and weight using standard units",
+        "Compare measurements of different individuals",
+        "Collect and organize data about health",
+        "Read and interpret simple pictograms",
+        "Use tally marks to record data",
+        "Solve problems involving measurements of body parts"
+      ]
+    },
+    {
+      "theme_id": 4,
+      "name": "Food and Nutrition",
+      "competences": [
+        "Count and compare quantities of food items",
+        "Recognize fraction concepts (halves and quarters) with food items",
+        "Measure quantities using standard units",
+        "Estimate quantities of food",
+        "Solve word problems involving food quantities",
+        "Add and subtract within 30 using food items",
+        "Recognize patterns in food sequences"
+      ]
+    },
+    {
+      "theme_id": 5,
+      "name": "Transport in Our Community",
+      "competences": [
+        "Count vehicles and represent using tally marks",
+        "Create and read simple bar graphs",
+        "Compare quantities of different types of transport",
+        "Add and subtract numbers within 30",
+        "Understand basic geometry of vehicles (wheels, doors)",
+        "Estimate distances",
+        "Solve problems involving time and distance"
+      ]
+    },
+    {
+      "theme_id": 6,
+      "name": "Things We Make",
+      "competences": [
+        "Recognize 3D shapes (cubes, cuboids, spheres, cylinders)",
+        "Describe properties of 3D shapes",
+        "Measure and compare dimensions of objects made",
+        "Recognize symmetry in objects",
+        "Use patterns in designs",
+        "Estimate and measure angles in objects",
+        "Solve problems involving shapes and measurements"
+      ]
+    },
+    {
+      "theme_id": 7,
+      "name": "Accidents and Safety",
+      "competences": [
+        "Collect and analyze data about accidents",
+        "Create pictograms showing accident statistics",
+        "Count and compare accident prevention strategies",
+        "Solve word problems related to safety",
+        "Measure time taken for first aid procedures",
+        "Calculate percentages of accident prevention knowledge",
+        "Interpret data on safety practices"
+      ]
+    },
+    {
+      "theme_id": 8,
+      "name": "Work and Livelihoods",
+      "competences": [
+        "Count earnings and expenses",
+        "Compare incomes of different occupations",
+        "Solve problems involving money and work",
+        "Understand basic budgeting concepts",
+        "Calculate simple profits and losses",
+        "Create and read charts showing employment data",
+        "Add and subtract larger numbers (within 100)"
+      ]
+    },
+    {
+      "theme_id": 9,
+      "name": "Child Protection",
+      "competences": [
+        "Collect and interpret data about child safety",
+        "Create graphs showing protection statistics",
+        "Understand basic probability concepts",
+        "Solve problems involving rights and protection",
+        "Count and classify types of abuse",
+        "Measure time related to child welfare",
+        "Interpret data on child protection practices"
+      ]
+    },
+    {
+      "theme_id": 10,
+      "name": "Animals and Plants",
+      "competences": [
+        "Count different types of animals and plants",
+        "Classify animals and plants by characteristics",
+        "Measure growth of plants over time",
+        "Create graphs showing animal and plant data",
+        "Understand patterns in animal and plant life cycles",
+        "Estimate populations",
+        "Solve problems involving living things"
+      ]
+    },
+    {
+      "theme_id": 11,
+      "name": "Time and Seasons",
+      "competences": [
+        "Read and write time to the half hour",
+        "Understand months and seasons",
+        "Create calendars and timelines",
+        "Calculate age and duration in months",
+        "Order events chronologically",
+        "Understand weather patterns across seasons",
+        "Solve problems involving time and seasons"
+      ]
+    },
+    {
+      "theme_id": 12,
+      "name": "Water and Cleanliness",
+      "competences": [
+        "Measure water quantities using standard units",
+        "Estimate water needed for different purposes",
+        "Collect and analyze water usage data",
+        "Create graphs about water conservation",
+        "Solve problems involving water measurements",
+        "Understand ratios in cleaning solutions",
+        "Calculate water consumption and cost"
+      ]
+    }
+  ],
+  "learning_outcomes": [
+    "Develop number sense and understand place value",
+    "Perform arithmetic operations (addition and subtraction) accurately",
+    "Recognize, describe and compare 2D and 3D shapes",
+    "Measure length, mass, capacity and time",
+    "Collect, organize and interpret data",
+    "Solve problems using mathematics in real-life contexts",
+    "Develop mathematical reasoning and communication skills"
+  ]
+}

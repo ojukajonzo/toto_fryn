@@ -1,0 +1,96 @@
+{
+  "level": "P2",
+  "title": "Primary Two Thematic Curriculum Syllabus",
+  "country": "Uganda",
+  "source": "Uganda National Curriculum Development Centre (NCDC)",
+  "academic_year": "2024-2025",
+  "curriculum_type": "Thematic",
+  "description": "The P2 Thematic Curriculum organizes learning around 12 themes central to children's experiences and interests. Each theme integrates multiple learning areas including Mathematics, English, Science, Social Studies, and other subjects, promoting holistic child development.",
+  "duration": "Academic Year (2-3 terms)",
+  "instructional_languages": [
+    "First/Familiar Language (Medium of Instruction)",
+    "English (English Language Learning)"
+  ],
+  "themes": [
+    {
+      "theme_id": 1,
+      "name": "Our School and Neighbourhood",
+      "description": "Children learn about their immediate school and community environment"
+    },
+    {
+      "theme_id": 2,
+      "name": "Our Home and Community",
+      "description": "Focus on family structures and community relationships"
+    },
+    {
+      "theme_id": 3,
+      "name": "The Human Body and Health",
+      "description": "Understanding the body and promoting health and wellness"
+    },
+    {
+      "theme_id": 4,
+      "name": "Food and Nutrition",
+      "description": "Learning about food sources and balanced nutrition"
+    },
+    {
+      "theme_id": 5,
+      "name": "Transport in Our Community",
+      "description": "Exploring different means of transportation"
+    },
+    {
+      "theme_id": 6,
+      "name": "Things We Make",
+      "description": "Creative activities and craft development"
+    },
+    {
+      "theme_id": 7,
+      "name": "Accidents and Safety",
+      "description": "Promoting safety awareness and prevention strategies"
+    },
+    {
+      "theme_id": 8,
+      "name": "Work and Livelihoods",
+      "description": "Understanding different occupations and economic activities"
+    },
+    {
+      "theme_id": 9,
+      "name": "Child Protection",
+      "description": "Developing awareness of rights and personal safety"
+    },
+    {
+      "theme_id": 10,
+      "name": "Animals and Plants",
+      "description": "Exploring biodiversity and living organisms"
+    },
+    {
+      "theme_id": 11,
+      "name": "Time and Seasons",
+      "description": "Understanding time, seasons, and weather patterns"
+    },
+    {
+      "theme_id": 12,
+      "name": "Water and Cleanliness",
+      "description": "Appreciating water resources and promoting hygiene"
+    }
+  ],
+  "core_learning_areas": [
+    "Mathematics",
+    "English",
+    "Science",
+    "Social Studies",
+    "Life Skills",
+    "Creative and Performing Arts",
+    "Physical Education",
+    "Religious Education",
+    "Oral Literature"
+  ],
+  "assessment_approach": "Competence-based assessment integrated throughout themes",
+  "teaching_methodology": "Child-centered, play-based, active participation",
+  "special_features": [
+    "Thematic organization linking multiple subject areas",
+    "Emphasis on literacy and mathematics skills",
+    "Use of first/familiar language for instruction",
+    "Integration of life skills and values",
+    "Inclusive approach for all learners including those with special needs"
+  ]
+}

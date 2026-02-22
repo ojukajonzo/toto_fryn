@@ -4,7 +4,7 @@ class TotoBrain:
     def __init__(self, model_name='llama3.2:1b'):
         """
         Initializes the AI brain using Ollama.
-        Llama 3.2 1B is recommended for the Raspberry Pi 5 later.
+        
         """
         self.model = model_name
         

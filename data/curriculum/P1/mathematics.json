@@ -1,0 +1,213 @@
+{
+  "level": "P1",
+  "subject": "mathematics",
+  "curriculum_source": "Uganda National Curriculum Development Centre (NCDC)",
+  "overview": "Primary 1 mathematics is delivered through 12 themes, emphasizing practical counting, number recognition, basic operations, and measurement using manipulatives and real-world contexts.",
+  "learning_outcomes": [
+    "Sort objects into sets and count accurately within 10",
+    "Recognize and write numbers to at least 20",
+    "Perform simple addition and subtraction using concrete materials",
+    "Identify and name basic 2D and 3D shapes",
+    "Use non-standard units to measure and compare lengths and masses",
+    "Understand positional and directional language",
+    "Apply mathematical thinking to everyday problem-solving"
+  ],
+  "overall_competences": [
+    "Sorting into sets",
+    "Counting forwards and backwards",
+    "One-to-one correspondence",
+    "Matching identical objects",
+    "Sequencing",
+    "Adding one more",
+    "Taking away one",
+    "Playing number games",
+    "Identifying and naming shapes",
+    "Using positional language",
+    "Comparing lengths and masses",
+    "Measuring with non-standard units"
+  ],
+  "themes": [
+    {
+      "theme_number": 1,
+      "name": "Our School",
+      "competences": [
+        "Sorting into sets (e.g., different activities at school)",
+        "Counting 1-5 objects",
+        "Matching identical items",
+        "Sequencing objects in order",
+        "Adding 1 more (e.g., Ø+Ø=ØØ, ØØ+Ø=ØØØ)",
+        "Playing simple number games",
+        "Comparing groups (more/less)"
+      ]
+    },
+    {
+      "theme_number": 2,
+      "name": "Our Home",
+      "competences": [
+        "Sorting household items (e.g., clothes, utensils)",
+        "Counting family members",
+        "Matching pairs (socks, shoes)",
+        "Sequencing daily activities",
+        "Adding more items to groups",
+        "Comparing quantities in the home",
+        "Identifying simple shapes in household objects"
+      ]
+    },
+    {
+      "theme_number": 3,
+      "name": "Our Community",
+      "competences": [
+        "Counting people and objects in the community",
+        "Sorting community resources",
+        "Matching community helpers to their roles",
+        "Using positional language (near, far, beside)",
+        "Comparing sizes of community buildings",
+        "Simple addition with community-related objects",
+        "Arranging objects in patterns"
+      ]
+    },
+    {
+      "theme_number": 4,
+      "name": "The Human Body and Health",
+      "competences": [
+        "Counting body parts (5 fingers, 10 toes)",
+        "Matching left and right body parts",
+        "Sorting activities (healthy vs unhealthy)",
+        "Comparing heights of children",
+        "Using measurement language (tall, short)",
+        "Simple subtraction (removing socks, items)",
+        "Sequencing hygiene routines"
+      ]
+    },
+    {
+      "theme_number": 5,
+      "name": "Weather",
+      "competences": [
+        "Counting rainy/sunny days",
+        "Sorting weather items (raincoat, umbrella, sandals)",
+        "Comparing temperatures (hot/cold)",
+        "Matching weather to clothing",
+        "Recording weather patterns with tally marks",
+        "Identifying shapes in clouds",
+        "Simple graphing of weather observations"
+      ]
+    },
+    {
+      "theme_number": 6,
+      "name": "Accidents and Safety",
+      "competences": [
+        "Counting and identifying hazards",
+        "Sorting safe and unsafe objects",
+        "Comparing risk levels of activities",
+        "Using positional language for safety (under, over, around)",
+        "Matching prevention to hazard",
+        "Grouping safety rules",
+        "Simple problem-solving for safety"
+      ]
+    },
+    {
+      "theme_number": 7,
+      "name": "Living Together",
+      "competences": [
+        "Counting family members and friends",
+        "Sorting people by roles (mother, teacher, etc.)",
+        "Matching people to relationships",
+        "Sequencing family events",
+        "Comparing family sizes",
+        "Using numbers in social contexts (age, order of siblings)",
+        "Grouping people by characteristics"
+      ]
+    },
+    {
+      "theme_number": 8,
+      "name": "Food And Nutrition",
+      "competences": [
+        "Sorting foods by groups (grains, vegetables, fruits, proteins)",
+        "Counting food items (fruits on a plate)",
+        "Matching food to nutrition group",
+        "Comparing portion sizes",
+        "Using non-standard units to measure food (handful, spoonful)",
+        "Simple addition with food quantities",
+        "Sequencing meal preparation steps"
+      ]
+    },
+    {
+      "theme_number": 9,
+      "name": "Our Transport",
+      "competences": [
+        "Sorting transport by type (land, water, air)",
+        "Counting wheels on vehicles",
+        "Matching transport to purpose",
+        "Comparing sizes of vehicles",
+        "Using positional language for routes",
+        "Simple measurement of distances",
+        "Grouping vehicles by characteristics"
+      ]
+    },
+    {
+      "theme_number": 10,
+      "name": "Things We Make",
+      "competences": [
+        "Sorting craft materials by type or color",
+        "Counting materials needed",
+        "Matching materials to creations",
+        "Sequencing making processes",
+        "Comparing finished products",
+        "Using measurement in crafts",
+        "Arranging items in patterns and designs"
+      ]
+    },
+    {
+      "theme_number": 11,
+      "name": "Our Environment",
+      "competences": [
+        "Sorting plants and animals",
+        "Counting trees, plants, animals",
+        "Matching animals to habitats",
+        "Comparing plant sizes and growth",
+        "Using non-standard measurement for plants",
+        "Grouping environmental resources",
+        "Recording environmental observations"
+      ]
+    },
+    {
+      "theme_number": 12,
+      "name": "Peace And Security",
+      "competences": [
+        "Sorting peaceful and non-peaceful behaviors",
+        "Counting people in peaceful gatherings",
+        "Matching conflicts to resolutions",
+        "Comparing cooperation benefits",
+        "Using positional language in community spaces",
+        "Grouping community safety measures",
+        "Simple counting in security contexts"
+      ]
+    }
+  ],
+  "teaching_methodology": [
+    "Use of manipulatives (counters, blocks, beads) for concrete learning",
+    "Real-world, context-based problem-solving from themes",
+    "Games and playful activities for number concept development",
+    "Group and pair work with mathematical discussions",
+    "Visual representations and drawings",
+    "Songs and rhymes to reinforce number sequences",
+    "Teacher-guided exploration before independent practice"
+  ],
+  "assessment_focus": [
+    "Observe children's ability to sort and count accurately",
+    "Check understanding of number concepts, not memorization",
+    "Record competences through practical demonstrations",
+    "Use work samples (drawings, arrangements) as evidence",
+    "Continuous informal assessment during activities"
+  ],
+  "resources": [
+    "Counters, blocks, beads, buttons",
+    "Number cards and number lines",
+    "Shapes (2D and 3D)",
+    "Measuring items (strings, sticks, containers)",
+    "Real objects from themes (food, transport models, etc.)",
+    "Tally cards and simple recording sheets",
+    "Picture cards for matching and sequencing"
+  ],
+  "notes": "Mathematics in P1 is integrated within themes to make learning meaningful. Competences are demonstrated through practical activities, not written tests. Children learn through exploration, experimentation, and play. All assessment is informal and observational in the local language."
+}

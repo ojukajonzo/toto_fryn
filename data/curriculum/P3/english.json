@@ -1,0 +1,210 @@
+{
+  "level": "P3",
+  "subject": "english",
+  "source": "Uganda National Curriculum Development Centre (NCDC) - P3 Thematic Curriculum",
+  "themes": [
+    {
+      "theme_id": 1,
+      "name": "Our Sub-county/Division",
+      "competences": [
+        "Read texts about local communities with understanding",
+        "Write descriptive paragraphs about the community",
+        "Identify main ideas and supporting details in texts",
+        "Use correct subject-verb agreement",
+        "Spell multi-syllable words correctly",
+        "Listen to descriptions of places and understand details",
+        "Give presentations about community features",
+        "Use geographical vocabulary appropriately",
+        "Read and create simple maps with place names",
+        "Write simple news reports about community events"
+      ]
+    },
+    {
+      "theme_id": 2,
+      "name": "Livelihood in Our Sub-county/Division",
+      "competences": [
+        "Read occupational descriptions with comprehension",
+        "Write about different livelihoods in the community",
+        "Use past and present tenses correctly",
+        "Spell occupational and business-related words",
+        "Listen to interviews about work and livelihood",
+        "Speak about career aspirations clearly",
+        "Read and write business-related vocabulary",
+        "Use adjectives to describe work environments",
+        "Create job advertisements and application letters",
+        "Write stories about economic activities"
+      ]
+    },
+    {
+      "theme_id": 3,
+      "name": "Our Environment in Our Sub-county/Division",
+      "competences": [
+        "Read environmental texts with understanding",
+        "Write about environmental features and resources",
+        "Use descriptive language for environmental features",
+        "Spell environmental and geographical words correctly",
+        "Listen to environmental explanations and take notes",
+        "Speak about environmental conservation practices",
+        "Read and create descriptions of landscapes",
+        "Use comparative and superlative adjectives",
+        "Write persuasive texts about conservation",
+        "Create environmental awareness posters"
+      ]
+    },
+    {
+      "theme_id": 4,
+      "name": "Environment and Weather",
+      "competences": [
+        "Read weather reports and understand information",
+        "Write descriptions of weather and seasons",
+        "Use adverbs to describe weather conditions",
+        "Spell weather-related vocabulary correctly",
+        "Listen to weather forecasts and understand predictions",
+        "Give descriptions of seasonal changes",
+        "Read and understand weather symbols and codes",
+        "Write about seasonal activities and clothing",
+        "Create weather journals with observations",
+        "Write poetry about seasons and weather"
+      ]
+    },
+    {
+      "theme_id": 5,
+      "name": "Living Things: Animals",
+      "competences": [
+        "Read animal descriptions and information texts",
+        "Write fact files about different animals",
+        "Use present tense for animal behaviors",
+        "Spell animal names and characteristics correctly",
+        "Listen to stories and documentaries about animals",
+        "Describe animals using varied adjectives",
+        "Read and understand animal classification texts",
+        "Write about animal habitats and adaptation",
+        "Create informative texts about endangered species",
+        "Write imaginative stories from animal perspectives"
+      ]
+    },
+    {
+      "theme_id": 6,
+      "name": "Living Things: Plants",
+      "competences": [
+        "Read texts about plants and their characteristics",
+        "Write descriptions of plant growth and parts",
+        "Use correct terminology for plant structures",
+        "Spell plant-related vocabulary accurately",
+        "Listen to explanations of plant life cycles",
+        "Describe plant adaptations to environments",
+        "Read and understand botany-related texts",
+        "Write about plant uses in daily life",
+        "Create illustrated guides to local plants",
+        "Write informative texts about plant conservation"
+      ]
+    },
+    {
+      "theme_id": 7,
+      "name": "Water and Natural Resources",
+      "competences": [
+        "Read texts about water sources and conservation",
+        "Write about water and natural resource management",
+        "Use technical vocabulary related to resources",
+        "Spell water and resource-related words correctly",
+        "Listen to conservation messages and understand importance",
+        "Speak persuasively about conservation practices",
+        "Read and understand environmental policies",
+        "Write about water-related challenges and solutions",
+        "Create awareness campaigns for conservation",
+        "Write research reports on natural resources"
+      ]
+    },
+    {
+      "theme_id": 8,
+      "name": "Cultural Heritage",
+      "competences": [
+        "Read about cultural practices and traditions",
+        "Write descriptions of cultural events and customs",
+        "Use culturally appropriate vocabulary and expressions",
+        "Spell cultural and traditional words correctly",
+        "Listen to stories of cultural significance",
+        "Speak about cultural traditions respectfully",
+        "Read and understand historical narratives",
+        "Write about cultural values and their importance",
+        "Create written records of family traditions",
+        "Write poetry reflecting cultural identity"
+      ]
+    },
+    {
+      "theme_id": 9,
+      "name": "Peace, Rights and Responsibilities",
+      "competences": [
+        "Read texts about rights, responsibilities and peace",
+        "Write about human rights and civic duties",
+        "Use vocabulary related to democracy and rights",
+        "Spell terms related to justice and governance",
+        "Listen to discussions about peace and conflict",
+        "Speak about rights and responsibilities clearly",
+        "Read constitutions and rights documents",
+        "Write persuasive texts promoting peace",
+        "Create awareness campaigns about human rights",
+        "Write reflective texts about personal responsibilities"
+      ]
+    },
+    {
+      "theme_id": 10,
+      "name": "Energy and Movement",
+      "competences": [
+        "Read texts about energy, forces and motion",
+        "Write about physical activities and energy use",
+        "Use technical vocabulary for energy and forces",
+        "Spell science-related words correctly",
+        "Listen to explanations of scientific concepts",
+        "Describe movements and forces clearly",
+        "Read and understand scientific diagrams",
+        "Write experiment reports with observations",
+        "Create illustrated explanations of movement",
+        "Write about practical applications of forces"
+      ]
+    },
+    {
+      "theme_id": 11,
+      "name": "Communication and Technology",
+      "competences": [
+        "Read texts about communication and technology",
+        "Write about communication methods and technology",
+        "Use technology-related vocabulary appropriately",
+        "Spell technical terms correctly",
+        "Listen to explanations of communication systems",
+        "Speak about technology use in daily life",
+        "Read and understand technology instructions",
+        "Write about benefits and risks of technology",
+        "Create digital texts using appropriate tools",
+        "Write persuasive texts about technology use"
+      ]
+    },
+    {
+      "theme_id": 12,
+      "name": "Trade and Commerce",
+      "competences": [
+        "Read business and economic texts with understanding",
+        "Write about trade, business and commerce",
+        "Use business and economic terminology correctly",
+        "Spell commercial and trade-related words",
+        "Listen to business and market discussions",
+        "Speak about economic activities confidently",
+        "Read and understand business documents",
+        "Write about entrepreneurship and business ideas",
+        "Create business proposals and plans",
+        "Write case studies of local businesses and traders"
+      ]
+    }
+  ],
+  "learning_outcomes": [
+    "Read fluently and comprehensively across varied text types",
+    "Write coherent multi-sentence texts with clear purpose",
+    "Use correct grammar, spelling and punctuation consistently",
+    "Communicate effectively in English for various purposes",
+    "Expand vocabulary in subject-specific contexts",
+    "Listen attentively and understand spoken English in various contexts",
+    "Speak clearly and confidently on diverse topics",
+    "Develop critical thinking through reading and discussion",
+    "Appreciate English language and develop lifelong reading habits"
+  ]
+}

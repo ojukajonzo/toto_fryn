@@ -1,0 +1,97 @@
+{
+  "level": "P3",
+  "title": "Primary Three Thematic Curriculum Syllabus",
+  "country": "Uganda",
+  "source": "Uganda National Curriculum Development Centre (NCDC)",
+  "academic_year": "2024-2025",
+  "curriculum_type": "Thematic",
+  "description": "The P3 Thematic Curriculum continues the thematic approach from P2 with 12 themes focusing on expanding knowledge, skills and competences. It serves as a bridge between lower primary thematic learning and upper primary subject-based learning, preparing children for P4 subject-based curriculum.",
+  "duration": "Academic Year (2-3 terms)",
+  "instructional_languages": [
+    "First/Familiar Language (Reduced)",
+    "English (Increased emphasis)"
+  ],
+  "themes": [
+    {
+      "theme_id": 1,
+      "name": "Our Sub-county/Division",
+      "description": "Understanding the wider geographical and administrative community"
+    },
+    {
+      "theme_id": 2,
+      "name": "Livelihood in Our Sub-county/Division",
+      "description": "Exploring various economic activities and occupations"
+    },
+    {
+      "theme_id": 3,
+      "name": "Our Environment in Our Sub-county/Division",
+      "description": "Understanding environmental resources and sustainability"
+    },
+    {
+      "theme_id": 4,
+      "name": "Environment and Weather",
+      "description": "Learning about weather patterns, climate and natural phenomena"
+    },
+    {
+      "theme_id": 5,
+      "name": "Living Things: Animals",
+      "description": "Studying animal diversity, habitats and behaviors"
+    },
+    {
+      "theme_id": 6,
+      "name": "Living Things: Plants",
+      "description": "Understanding plant characteristics, growth and uses"
+    },
+    {
+      "theme_id": 7,
+      "name": "Water and Natural Resources",
+      "description": "Appreciating water and other natural resources and conservation"
+    },
+    {
+      "theme_id": 8,
+      "name": "Cultural Heritage",
+      "description": "Exploring local culture, traditions and history"
+    },
+    {
+      "theme_id": 9,
+      "name": "Peace, Rights and Responsibilities",
+      "description": "Understanding human rights, responsibilities and conflict resolution"
+    },
+    {
+      "theme_id": 10,
+      "name": "Energy and Movement",
+      "description": "Learning about forces, motion and energy in practical contexts"
+    },
+    {
+      "theme_id": 11,
+      "name": "Communication and Technology",
+      "description": "Understanding communication systems and basic technology"
+    },
+    {
+      "theme_id": 12,
+      "name": "Trade and Commerce",
+      "description": "Learning about economic activities, business and entrepreneurship"
+    }
+  ],
+  "core_learning_areas": [
+    "Mathematics",
+    "English",
+    "Science",
+    "Social Studies",
+    "Life Skills",
+    "Creative and Performing Arts",
+    "Physical Education",
+    "Religious Education",
+    "Oral Literature"
+  ],
+  "assessment_approach": "Competence-based assessment with increasing focus on subject-specific skills",
+  "transition_to_upper_primary": "P3 prepares children for subject-based learning in P4-P7",
+  "teaching_methodology": "Child-centered with increasing emphasis on critical thinking and problem-solving",
+  "special_features": [
+    "Bridge between thematic (P1-P3) and subject-based (P4-P7) curriculum",
+    "Emphasis on English language development",
+    "Integration of practical skills and life competences",
+    "Preparation for secondary education",
+    "Focus on developing independent learners"
+  ]
+}
